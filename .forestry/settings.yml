@@ -6,12 +6,12 @@ webhook_url:
 sections:
 - type: directory
   path: ''
-  label: Projects
+  label: Teaching
   create: all
   match: "**/*"
 - type: directory
   path: ''
-  label: C.V.
+  label: Projects
   create: all
   match: "**/*"
 - type: jekyll-pages
