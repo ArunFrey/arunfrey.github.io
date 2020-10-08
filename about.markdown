@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+![Arun Frey](portrait.jpeg){:style="float:right; margin:15px; width: 40%;"}
 
 I am a PhD Sociology candidate at the [University of Oxford](https://www.sociology.ox.ac.uk/people/arun-frey.html), and am currently based at [Harvard Univeristy](https://sociology.fas.harvard.edu/people/arun-frey) as a Visiting Fellow at the Department of Sociology. 
 
