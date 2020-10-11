@@ -1,10 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: "Arun Frey"
+author: "Arun Frey"
 ---
-
-![Arun Frey](/assets/portrait.jpg){:style="float:right; margin:15px; width: 50%;"}
+  
+![Arun Frey](assets/portrait.jpg){:style="float:right; margin:15px; width: 40%;"}
 
 I am a PhD Sociology candidate at the [University of Oxford](https://www.sociology.ox.ac.uk/people/arun-frey.html), and am currently based at [Harvard Univeristy](https://sociology.fas.harvard.edu/people/arun-frey) as a Visiting Fellow at the Department of Sociology. 
 
