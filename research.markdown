@@ -6,7 +6,7 @@ permalink: /publications/
 
 __Academic Publications__: 
 
-Frey, Arun. 2020. ‘“Cologne Changed Everything”—The Effect of Threatening Events on the Frequency and Distribution of Intergroup Conflict in Germany’. [_European Sociological Review_](https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcaa007/5814862).
+‘“Cologne Changed Everything”—The Effect of Threatening Events on the Frequency and Distribution of Intergroup Conflict in Germany’. [_European Sociological Review_](https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcaa007/5814862), 2020. 
 
 
 
