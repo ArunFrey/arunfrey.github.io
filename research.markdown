@@ -4,24 +4,28 @@ title: Publications
 permalink: /publications/
 ---
 
-__Academic Publications__: 
+### Academic Publications: 
 
 ‘“Cologne Changed Everything”—The Effect of Threatening Events on the Frequency and Distribution of Intergroup Conflict in Germany’. [_European Sociological Review_](https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcaa007/5814862), 2020. 
 
 
 
-__Work In Progress__:
+### Work In Progress:
+
 
 _Assessing the Impact of Terrorism on In- and Out-Group Sentiment_.
 
+
 _The Impact of Mass Shootings on Attitudes towards Gun Restrictions_ (with David Kirk).
 
+
 _Following the Crowd: Surveying Protestors with Twitter Data_ (with Christopher Barrie). 
+
 
 _Learning Inequality during the Covid-19 Pandemic_ (with Per Engzell and Mark Verhagen). 
 
 
-__Other Writing__:
+### Other Writing:
 
 “The Case of Convergence: Assessing Regional Income Distribution in Asia and the Pacific.” [_United Nations Asia-Pacific-Sustainable Development Journal_](https://econpapers.repec.org/article/untjapsdj/v_3a25_3ay_3a2018_3ai_3a2_3ap_3a1-19.htm), 2018.
 
