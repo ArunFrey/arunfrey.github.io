@@ -3,7 +3,10 @@ layout: default
 exclude: true
 ---
 
-![Arun Frey](/assets/portrait.jpg){:style="float:right; margin:15px; width: 50%;"}
+# Arun Frey
+
+![Arun Frey](/assets/portrait.jpg){:style="float:right; margin:15px; width: 55%;"}
+
 
 I am a PhD Sociology candidate at the [University of Oxford](https://www.sociology.ox.ac.uk/people/arun-frey.html), and a member of the [T.E. Lawrence Program on the Study of Conflict](https://www.teloxford.org/members). Currently, I am based at [Harvard University](https://sociology.fas.harvard.edu/people/arun-frey) as a Visiting Fellow at the Department of Sociology. My research agenda spans the areas of migration, conflict, collective action, and inequality, and is supported by the UK Economic and Social Research Council and the German Academic Scholarship Foundation.
 
