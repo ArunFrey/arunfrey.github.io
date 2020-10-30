@@ -11,4 +11,4 @@ The central motivation for my doctoral research is to examine the conditions und
 
 In other on-going projects I study the online consequences of collective action (with Christopher Barrie), educational inequality in the face of a global pandemic (with Per Engzell and Mark Verhagen), and the formation of political attitudes following mass shootings (with David Kirk). Together, this work is motivated by a larger desire to study the social processes that beget and reproduce inequalities between social groups. 
 
-Find me on [Twitter](https://twitter.com/arunfrey) or send me an email at <arun.frey@sociology.ox.ac.uk>.
+Find me on [Twitter](https://twitter.com/arunfrey) or send me an email at <arun.frey@sociology.ox.ac.uk>. I am currently on the job market. 

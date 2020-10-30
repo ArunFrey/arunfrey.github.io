@@ -12,9 +12,10 @@ permalink: /publications/
 
 ### Work In Progress:
 
+_Learning Inequality during the Covid-19 Pandemic_ (with Per Engzell and Mark Verhagen). 
+[[working paper]](https://osf.io/preprints/socarxiv/ve4z7/) [[pre-registration]](https://osf.io/ngpt2/)
 
-_Assessing the Impact of Terrorism on In- and Out-Group Sentiment_.
-
+_Assessing the Impact of Terrorism on In- and Out-Group Sentiment_.[[working paper]](https://github.com/ArunFrey/arunfrey.github.io/blob/master/assets/Paper2.pdf)
 
 _The Impact of Mass Shootings on Attitudes towards Gun Restrictions_ (with David Kirk).
 
@@ -22,7 +23,6 @@ _The Impact of Mass Shootings on Attitudes towards Gun Restrictions_ (with David
 _Following the Crowd: Surveying Protestors with Twitter Data_ (with Christopher Barrie). 
 
 
-_Learning Inequality during the Covid-19 Pandemic_ (with Per Engzell and Mark Verhagen). 
 
 
 ### Other Writing:
