@@ -3,8 +3,6 @@ layout: default
 exclude: true
 ---
 
-# Arun Frey
-
 ![Arun Frey](/assets/portrait.jpg){:style="float:right; margin:15px; width: 55%;"}
 
 
