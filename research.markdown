@@ -16,10 +16,12 @@ _Learning Inequality during the Covid-19 Pandemic_ (with Per Engzell and Mark Ve
 
 _Assessing the Impact of Terrorism on In- and Out-Group Sentiment_.[[working paper]](https://github.com/ArunFrey/arunfrey.github.io/blob/master/assets/Paper2.pdf)
 
+_Following the Crowd: Surveying Protestors with Twitter Data_ (with Christopher Barrie).[[working paper]](https://github.com/ArunFrey/arunfrey.github.io/blob/master/assets/twitter-protest.pdf)
+
 _The Impact of Mass Shootings on Attitudes towards Gun Restrictions_ (with David Kirk).
 
 
-_Following the Crowd: Surveying Protestors with Twitter Data_ (with Christopher Barrie). 
+
 
 
 
