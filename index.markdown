@@ -6,10 +6,13 @@ exclude: true
 ![Arun Frey](/assets/portrait.jpg){:style="float:right; margin:15px; width: 55%;"}
 
 
-I am a PhD Sociology candidate at the [University of Oxford](https://www.sociology.ox.ac.uk/people/arun-frey.html). Currently, I am based at [Harvard University](https://sociology.fas.harvard.edu/people/arun-frey) as a Visiting Fellow at the Department of Sociology. My research uses computational methods to contribute to the areas of violence, migration, and inequality. 
+I am a PhD Sociology candidate at the [University of Oxford](https://www.sociology.ox.ac.uk/people/arun-frey.html), and am currently a visiting student at [Harvard University](https://sociology.fas.harvard.edu/people/arun-frey)'s Department of Sociology. This fall, I will join the [Leverhulme Centre for Demographic Science](https://www.demographicscience.ox.ac.uk) as a post-doctoral researcher. My work has been featured in various news outlets, including the _New York Times_, _The Economist_, *Die Zeit*, *ARTE*, and the *BBC*. 
 
-The central motivation for my doctoral research is to examine the conditions under which immigration mobilizes opposition---particularly outside the political arena---and what such opposition entails for marginalized communities. To study these phenomena, I rely on a combination of administrative, survey, and web-scraped data sources, and take an active interest in the field of computational social science. A chapter of my PhD thesis has recently been published at the [European Sociological Review](https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcaa007/5814862). 
 
-This work is motivated by a larger desire to study the social processes that beget and reproduce inequalities between social groups. To this end, I examine how [COVID-19 impedes student progress and exacerbates educational inequality](https://osf.io/preprints/socarxiv/ve4z7/) (with Per Engzell and Mark Verhagen). This work has been covered by news outlets across the Netherlands, Germany, Switzerland, Austria, Hungary, Italy, Brazil and the US, and has been cited in a special hearing about school closures in the UK House of Commons. 
+In my work I use computational methods to contribute to the areas of violence, migration, and inequality.
 
-Find me on [Twitter](https://twitter.com/arunfrey) or send me an email at <arun.frey@sociology.ox.ac.uk>. I am currently on the job market. 
+My doctoral research examines the conditions under which immigration mobilizes opposition---particularly outside the political arena---and what such opposition entails for marginalized communities. A chapter of my PhD thesis has recently been published at the [European Sociological Review](https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcaa007/5814862). 
+
+I also study how school closures during COVID-19 have impacted student learning and educational inequality. This research was recently published at the [Proceedings of the National Academy of Sciences](https://www.pnas.org/content/118/17/e2022376118) and has had a documented impact on policy in several countries and invited hearings at the European Commission, the OECD, and the World Bank. 
+
+Find me on [Twitter](https://twitter.com/arunfrey) or send me an email at ```arun.frey[at]sociology.ox.ac.uk```.  
