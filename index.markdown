@@ -6,7 +6,7 @@ exclude: true
 ![Arun Frey](/assets/portrait.jpg){:style="float:right; margin:15px; width: 55%;"}
 
 
-I am a PhD Sociology candidate at the [University of Oxford](https://www.sociology.ox.ac.uk/people/arun-frey.html), and am currently a visiting student at [Harvard University](https://sociology.fas.harvard.edu/people/arun-frey)'s Department of Sociology. This fall, I will join the [Leverhulme Centre for Demographic Science](https://www.demographicscience.ox.ac.uk) as a post-doctoral researcher. My work has been featured in various news outlets, including the _New York Times_, _The Economist_, *Die Zeit*, *ARTE*, and the *BBC*. 
+I am a Post-Doctoral Researcher with the [Leverhulme Centre for Demographic Science](https://www.demographicscience.ox.ac.uk), and a member of the Sociology department at the [University of Oxford](https://www.sociology.ox.ac.uk/people/arun-frey.html). My research has been featured in various news outlets, including the _New York Times_, _The Economist_, *Die Zeit*, *ARTE*, and the *BBC*. 
 
 
 In my work I use computational methods to contribute to the areas of violence, migration, and inequality.
