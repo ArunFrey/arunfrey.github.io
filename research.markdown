@@ -14,9 +14,9 @@ _Learning Inequality during the Covid-19 Pandemic_ (with Per Engzell and Mark Ve
 
 ### Work In Progress:
 
-_Assessing the Impact of Terrorism on In- and Out-Group Sentiment_.[[working paper]](https://github.com/ArunFrey/arunfrey.github.io/blob/master/assets/Paper2.pdf)
+_Getting under the Skin: the Impact of Terrorist Attacks on Native and Immigrant Sentiment_.[[working paper]](https://github.com/ArunFrey/arunfrey.github.io/blob/master/assets/nice-paper.pdf)
 
-_Following the Crowd: Surveying Protestors with Twitter Data_ (with Christopher Barrie).[[working paper]](https://github.com/ArunFrey/arunfrey.github.io/blob/master/assets/twitter-protest.pdf)
+_Faces in the Crowd: Surveying Protestors with Twitter Data_ (with Christopher Barrie).[[working paper]](https://github.com/ArunFrey/arunfrey.github.io/blob/master/assets/twitter-protest.pdf)
 
 _The Impact of Mass Shootings on Attitudes towards Gun Restrictions_ (with David Kirk).
 
@@ -28,3 +28,6 @@ _The Impact of Mass Shootings on Attitudes towards Gun Restrictions_ (with David
 “Inequality of Opportunity in Asia-Pacific: Clean Energy” (with Patrik Andersson, Ermina Sokou, Yichun Wang, and Predrag Savic). [_United Nations ESCAP_](https://www.unescap.org/resources/inequality-opportunity-asia-and-pacific-clean-energy), 2018.
 
 “Sustainable Social Development in Asia and the Pacific”(with Patrik Andersson and ErminaSokou). [_United Nations ESCAP_](https://www.unescap.org/sites/default/files/publications/Sustainable%20Social%20Development%20in%20A-P.pdf), 2017.
+
+
+![map](/assets/map_shelters.jpg){:style="float:center; margin:0px; max-width: 100%;"}
