@@ -6,6 +6,15 @@ permalink: /publications/
 
 ### Academic Publications: 
 
+_Getting under the Skin: The Impact of Terrorist Attacks on Native and Immigrant Sentiment_.
+[Social Forces](www.doi.org/10.1093/sf/soab135), 2021. [[code]](https://github.com/ArunFrey/nice-paper_public/releases/tag/v1.0.0)
+
+_The Impact of Mass Shootings on Attitudes towards Gun Restrictions_ (with David S. Kirk).
+[Socius](https://journals.sagepub.com/doi/full/10.1177/23780231211054636), 2021. [[code]](https://github.com/ArunFrey/mass-shootings/releases/tag/socius_article)
+
+_Faces in the Crowd: Twitter as Alternative to Protest Surveys_ (with Christopher Barrie).
+[PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259972), 2021. [[code]](https://osf.io/ybtsd)
+
 _Learning Inequality during the Covid-19 Pandemic_ (with Per Engzell and Mark Verhagen). 
 [Proceedings of the National Academy of Sciences](https://www.pnas.org/content/118/17/e2022376118), 2021. [[code]](https://github.com/MarkDVerhagen/Learning_Loss_COVID-19) [[pre-registration]](https://osf.io/ngpt2/)
 
@@ -14,12 +23,7 @@ _Learning Inequality during the Covid-19 Pandemic_ (with Per Engzell and Mark Ve
 
 ### Work In Progress:
 
-_Getting under the Skin: the Impact of Terrorist Attacks on Native and Immigrant Sentiment_.[[working paper]](https://github.com/ArunFrey/arunfrey.github.io/blob/master/assets/nice-paper.pdf)
-
-_Faces in the Crowd: Surveying Protestors with Twitter Data_ (with Christopher Barrie).[[working paper]](https://github.com/ArunFrey/arunfrey.github.io/blob/master/assets/twitter-protest.pdf)
-
-_The Impact of Mass Shootings on Attitudes towards Gun Restrictions_ (with David Kirk).
-
+_Shelter in Place: The Impact of Refugee Shelters on Perceived Neighbourhood Quality_. 
 
 ### Other Writing:
 
