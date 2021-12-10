@@ -18,7 +18,8 @@ _Faces in the Crowd: Twitter as Alternative to Protest Surveys_ (with Christophe
 _Learning Inequality during the Covid-19 Pandemic_ (with Per Engzell and Mark Verhagen). 
 [Proceedings of the National Academy of Sciences](https://www.pnas.org/content/118/17/e2022376118), 2021. [[code]](https://github.com/MarkDVerhagen/Learning_Loss_COVID-19) [[pre-registration]](https://osf.io/ngpt2/)
 
-‘“Cologne Changed Everything”—The Effect of Threatening Events on the Frequency and Distribution of Intergroup Conflict in Germany’. [_European Sociological Review_](https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcaa007/5814862), 2020.
+_Cologne Changed Everything”—The Effect of Threatening Events on the Frequency and Distribution of Intergroup Conflict in Germany_. 
+[_European Sociological Review_](https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcaa007/5814862), 2020.
 
 
 ### Work In Progress:
