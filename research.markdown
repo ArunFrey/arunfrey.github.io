@@ -7,7 +7,7 @@ permalink: /publications/
 ### Academic Publications: 
 
 _Getting under the Skin: The Impact of Terrorist Attacks on Native and Immigrant Sentiment_.
-[Social Forces](www.doi.org/10.1093/sf/soab135), 2021. [[code]](https://github.com/ArunFrey/nice-paper_public/releases/tag/v1.0.0)
+[Social Forces](https://www.doi.org/10.1093/sf/soab135), 2021. [[code]](https://github.com/ArunFrey/nice-paper_public/releases/tag/v1.0.0)
 
 _The Impact of Mass Shootings on Attitudes towards Gun Restrictions_ (with David S. Kirk).
 [Socius](https://journals.sagepub.com/doi/full/10.1177/23780231211054636), 2021. [[code]](https://github.com/ArunFrey/mass-shootings/releases/tag/socius_article)
