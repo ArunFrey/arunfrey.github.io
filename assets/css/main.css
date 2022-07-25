@@ -3621,14 +3621,26 @@ input, select, textarea {
 				padding: 2em 0 2em 0 ;
 			}
 
-				#banner > .inner .content p br {
-					display: none;
-				}
+			#banner > .inner .content p br {
+				display: none;
+				width: 100%;
+			}
 
-				#banner.major {
-					padding: 4em 0 4em 0 ;
-				}
+			#banner.major {
+				padding: 4em 0 4em 0 ;
+			}
 
+			#banner .frame {
+				width: 100%;
+			}
+
+			#banner .icons {
+				width: 100%;
+			}
+			
+			#banner > .inner header {
+				width: 100%;
+			}
 		}
 
 /* Main */
