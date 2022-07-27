@@ -3750,12 +3750,14 @@ body.is-preload #banner>.inner {
 @media screen and (max-width: 480px) {
 
 	#banner {
-		padding: 2em 0 2em 0;
+		padding: 2em 0.5em 2em 0.5em;
 	}
 
 	#banner>.inner .content {
 		width: 100%;
+		text-align: center;
 		float: left;
+		display: none;
 	}
 
 	#banner>.inner .content p br {
@@ -3772,9 +3774,9 @@ body.is-preload #banner>.inner {
 
 	#banner .icons {
 		width: 100%;
-		padding-top: 30%;
-		vertical-align: middle;
+		padding-top: 50%;
 		text-align: center;
+		display: inline-block;
 	}
 
 	#banner>.inner header {
