@@ -22,22 +22,30 @@
     <div id="wrapper">
 
         <!-- Header -->
-        <!-- Note: The "styleN" class below should match that of the banner element. -->
         <header id="header" class="alt style5">
             <a href="index.html" class="logo"><strong>Arun</strong> <span>Frey</span></a>
             <nav>
-                <a href="profile.html">Profile</a>
-                <a href="publications.html">Publications</a>
-                <a href="projects.html">Projects</a>
+                <a href="#menu">Menu</a>
             </nav>
         </header>
+
+        <!-- Menu -->
+        <nav id="menu">
+            <ul class="links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="profile.html">Profile</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="publications.html">Publications</a></li>
+            </ul>
+        </nav>
+
 
         <!-- Banner -->
         <!-- Note: The "styleN" class below should match that of the header element. -->
         <section id="banner" class="style5">
             <div class="inner">
                 <span class="image">
-                    <img src="images/pic01.jpg" alt="" />
+                    <img src="images/index/banner-2.jpg" alt="" />
                 </span>
                 <header class="major">
                     <h1>Projects</h1>
@@ -52,55 +60,56 @@
         <div id="main">
 
             <section id="one" class="spotlights">
-            <!-- Anti-refugee violence dashboard -->
-                     <section>
-                         <a href="https://github.com/ArunFrey/refugee-attacks" class="image">
-                             <img src="images/projects/dashboard.png" alt="" data-position="center center" />
-                         </a>
-                         <div class="content">
-                             <div class="inner">
-                                 <header class="major">
-                                     <h4>Anti-refugee violence in Germany dashboard</h4>
-                                     <h5>Ongoing project</h5>
-                                 </header>
-                                 <p>This dashboard visualises each known instance of anti-refugee violence in German since 2014, both across space and over time.
-                                     To create the app, clone the <a href="https://github.com/ArunFrey/refugee-attacks">project</a>, install all dependencies, and run <code>python -m app</code>.
-                                     To download the most recent attacks, run <code>python -m arvig</code>.
-                                 </p>
-                                <ul class="icons">
-                                    <li><a href="https://github.com/ArunFrey/refugee-attacks" class="icon regular fa-file-code"><span
-                                                class="label">Code
-                                                repository</span></a>
-                                    </li>
-                                </ul>
+                <!-- Anti-refugee violence dashboard -->
+                <section>
+                    <a href="https://github.com/ArunFrey/refugee-attacks" class="image">
+                        <img src="images/projects/dashboard.png" alt="" data-position="center center" />
+                    </a>
+                    <div class="content">
+                        <div class="inner">
+                            <header class="major">
+                                <h4><a href="https://github.com/ArunFrey/refugee-attacks">Dashboard: Visualising anti-refugee violence in Germany</a></h4>
+                                <h5>Ongoing project</h5>
+                            </header>
+                            <p>This dashboard visualises each known instance of anti-refugee violence in Germany.
+                               To do this, it downloads the most recent attacks from two institutions that collect the data: 
+                               <i>Amadeu Antonio Stiftung</i> and <i>Mut gegen rechte Gewalt.</i>
+                               You can download the most recent data and launch the app by cloning this <a
+                                    href="https://github.com/ArunFrey/refugee-attacks">Github repository</a>.
+                            </p>
+                            <ul class="icons">
+                                <li><a href="https://github.com/ArunFrey/refugee-attacks"
+                                        class="icon regular fa-file-code"><span class="label">Code
+                                            repository</span></a>
+                                </li>
+                            </ul>
 
-                             </div>
-                         </div>
-                     </section>
+                        </div>
+                    </div>
+                </section>
 
                 <!-- Shelter in place -->
-                    <section>
-                        <a href="#" class="image">
-                            <img src="images/projects/map-shelter.png" alt="" data-position="center center" />
-                        </a>
-                        <div class="content">
-                            <div class="inner">
-                                <header class="major">
-                                    <h4>The impact of refugee accommodation on local neighbourhood appeal</h4>
-                                    <h5>Ongoing project</h5>
-                                </header>
-                                <p>The opening of refugee shelters is regularly met with protest from the surrounding community, in part
-                                    because residents
-                                    fear that the presence of nearby shelters may devalue the local neighbourhood.
-                                    In this projeect I combine precise information on the place and timing of new property listings on a
-                                    large real estate website with
-                                    information on the opening of refugee accommodation sites to assess whether the opening of a new
-                                    shelter affects the desirability
-                                    of the surrounding area.
-                                </p>
-                            </div>
+                <section>
+                    <a href="#" class="image">
+                        <img src="images/projects/map-shlt-bw.png" alt="" data-position="center center" />
+                    </a>
+                    <div class="content">
+                        <div class="inner">
+                            <header class="major">
+                                <h4>The impact of refugee accommodation on local neighbourhood appeal</h4>
+                                <h5>Ongoing project</h5>
+                            </header>
+                            <p>The opening of refugee shelters is regularly met with protest from the surrounding
+                                community, in part
+                                because residents
+                                fear that the presence of nearby shelters may devalue the local neighbourhood.
+                                In this project I use data on indivdiual property listings across various cities as well as
+                                information on the time and place of refugee shelter openings to assess whether the opening
+                                of a new shelter affects the desirability of the surrounding area.
+                            </p>
                         </div>
-                    </section>
+                    </div>
+                </section>
 
                 <!-- Ukraine crisis -->
                 <section>
@@ -110,18 +119,24 @@
                     <div class="content">
                         <div class="inner">
                             <header class="major">
-                                <h4>Ukraine Crisis: Monitoring population displacement through social media activity</h4>
+                                <h4>
+                                    <a href="https://osf.io/z2jbc/">Ukraine Crisis: Monitoring population displacement through social media activity</a>
+                                </h4>
                                 <h5>Ongoing project (w. Doug Leasure et al)</h5>
                             </header>
-                            <p>The aim of this project is to produce daily sub-national population estimates for Ukraine disaggregated by age and sex
-                            based on social media user activity. The report describes the methodology developed for this purpose and the
-                            supplementary materials include daily population estimates for 5-year age-sex groups in each Oblast, figures
-                            highlighting daily demographic changes, and GIS files for mapping these results.</p>
+                            <p>The aim of this project is to produce daily sub-national population estimates for Ukraine
+                                disaggregated by age and sex
+                                based on social media user activity. The report describes the methodology developed for
+                                this purpose and the
+                                supplementary materials include daily population estimates for 5-year age-sex groups in
+                                each Oblast, figures
+                                highlighting daily demographic changes, and GIS files for mapping these results.</p>
                             <ul class="icons">
                                 <li><a href="https://osf.io/ckm8e" class="icon solid fa-folder-open"><span
                                             class="label">Supplementary material</span></a>
                                 </li>
-                                <li><a href="https://osf.io/z2jbc/" class="icon solid fa-file-pdf"><span class="label">Open access pdf
+                                <li><a href="https://osf.io/z2jbc/" class="icon solid fa-file-pdf"><span
+                                            class="label">Open access pdf
                                             file</span></a>
                                 </li>
                             </ul>
@@ -133,78 +148,79 @@
 
 
 
-    <!-- Contact -->
-    <section id="contact">
-        <div class="inner">
-            <section>
-                <form method="post" action="#">
-                    <div class="fields">
-                        <div class="field half">
-                            <label for="name">Name</label>
-                            <input type="text" name="name" id="name" />
-                        </div>
-                        <div class="field half">
-                            <label for="email">Email</label>
-                            <input type="text" name="email" id="email" />
-                        </div>
-                        <div class="field">
-                            <label for="message">Message</label>
-                            <textarea name="message" id="message" rows="6"></textarea>
-                        </div>
-                    </div>
-                    <ul class="actions">
-                        <li><input type="submit" value="Send Message" class="primary" /></li>
-                        <li><input type="reset" value="Clear" /></li>
+            <!-- Contact -->
+            <section id="contact">
+                <div class="inner">
+                    <section>
+                        <form method="post" action="#">
+                            <div class="fields">
+                                <div class="field half">
+                                    <label for="name">Name</label>
+                                    <input type="text" name="name" id="name" />
+                                </div>
+                                <div class="field half">
+                                    <label for="email">Email</label>
+                                    <input type="text" name="email" id="email" />
+                                </div>
+                                <div class="field">
+                                    <label for="message">Message</label>
+                                    <textarea name="message" id="message" rows="6"></textarea>
+                                </div>
+                            </div>
+                            <ul class="actions">
+                                <li><input type="submit" value="Send Message" class="primary" /></li>
+                                <li><input type="reset" value="Clear" /></li>
+                            </ul>
+                        </form>
+                    </section>
+                    <section class="split">
+                        <section>
+                            <div class="contact-method">
+                                <span class="icon solid alt fa-envelope"></span>
+                                <h3>Email</h3>
+                                <a href="mailto:arun.frey@sociology.ox.ac.uk">arun.frey@sociology.ox.ac.uk</a>
+                            </div>
+                        </section>
+                        <section>
+                            <div class="contact-method">
+                                <span class="icon brands solid alt fa-github"></span>
+                                <h3>Github</h3>
+                                <span><a href="https://github.com/arunfrey">github.com/arunfrey</a></span>
+                            </div>
+                        </section>
+                        <section>
+                            <div class="contact-method">
+                                <span class="icon brands solid alt fa-linkedin-in"></span>
+                                <h3>LinkedIn</h3>
+                                <span><a
+                                        href="https://www.linkedin.com/in/arunfrey/">linkedin.com/in/arunfrey</a></span>
+                            </div>
+                        </section>
+                    </section>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer id="footer">
+                <div class="inner">
+                    <ul class="copyright">
+                        <li>&copy; Arun Frey</li>
+                        <li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
                     </ul>
-                </form>
-            </section>
-            <section class="split">
-                <section>
-                    <div class="contact-method">
-                        <span class="icon solid alt fa-envelope"></span>
-                        <h3>Email</h3>
-                        <a href="mailto:arun.frey@sociology.ox.ac.uk">arun.frey@sociology.ox.ac.uk</a>
-                    </div>
-                </section>
-                <section>
-                 <div class="contact-method">
-                     <span class="icon brands solid alt fa-github"></span>
-                     <h3>Github</h3>
-                     <span><a href = "https://github.com/arunfrey">github.com/arunfrey</a></span>
-                 </div>
-                </section>
-                <section>
-                    <div class="contact-method">
-                        <span class="icon brands solid alt fa-linkedin-in"></span>
-                        <h3>LinkedIn</h3>
-                        <span><a href="https://www.linkedin.com/in/arunfrey/">linkedin.com/in/arunfrey</a></span>
-                    </div>
-                </section>
-            </section>
+                </div>
+            </footer>
+
         </div>
-    </section>
-    
-    <!-- Footer -->
-    <footer id="footer">
-        <div class="inner">
-            <ul class="copyright">
-                <li>&copy; Arun Frey</li>
-                <li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
-            </ul>
-        </div>
-    </footer>
-    
-    </div>
-    
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.scrolly.min.js"></script>
-    <script src="assets/js/jquery.scrollex.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
-    
-    </body>
-    
-    </html>
+
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.scrolly.min.js"></script>
+        <script src="assets/js/jquery.scrollex.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
