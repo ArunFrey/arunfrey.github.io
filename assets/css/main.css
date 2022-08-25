@@ -1944,6 +1944,24 @@ body.is-ie header.major>h1:after {
 
 }
 
+header.minor {
+	margin-bottom: 0em;
+}
+
+header.minor> :first-child {
+	margin-bottom: 0;
+	width: calc(100%);
+}
+
+header.minor> :first-child:after {
+	content: '';
+	background-color: #ffffff;
+	display: block;
+	height: 2px;
+	margin: 0.15em 0 0.3em 0;
+	width: 100%;
+}
+
 /* Form */
 
 form {
