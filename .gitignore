@@ -1,7 +1,7 @@
 # templates
 sites
 
-.DS_Store
+**/.DS_Store
 
 _site
 .sass-cache
