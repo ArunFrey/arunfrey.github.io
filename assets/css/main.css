@@ -3069,6 +3069,10 @@ button:disabled,
 		width: 100% !important;
 	}
 
+	.tiles article:before {
+		opacity: 0.3;
+	}
+
 }
 
 /* Contact Method */
@@ -3801,7 +3805,7 @@ body.is-preload #banner>.inner {
 	}
 
 	#banner.major {
-		padding: 4em 2em 4em 1em;
+		padding: 4em 1.2em 2em 1.2em;
 	}
 
 	#banner .frame {
